@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.AssemblyInfo.cs
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\specialization\bin\Debug\net6.0\specialization.exe
+C:\Users\admin\Desktop\specialization\bin\Debug\net6.0\specialization.deps.json
+C:\Users\admin\Desktop\specialization\bin\Debug\net6.0\specialization.runtimeconfig.json
+C:\Users\admin\Desktop\specialization\bin\Debug\net6.0\specialization.dll
+C:\Users\admin\Desktop\specialization\bin\Debug\net6.0\specialization.pdb
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.dll
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\refint\specialization.dll
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.pdb
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\specialization.genruntimeconfig.cache
+C:\Users\admin\Desktop\specialization\obj\Debug\net6.0\ref\specialization.dll
