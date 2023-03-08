@@ -3,7 +3,6 @@ Console.Write("Введите данные через пробел: ");
 string item = Console.ReadLine();
 string[] sourceArray = item.Split(' ');
 Console.WriteLine("Исходный массив данных: [{0}]", string.Join(", ", sourceArray));
-
 string[] targetArray = new string[sourceArray.Length];
 int targetIndex = 0;
 
@@ -18,4 +17,4 @@ for (int i = 0; i < sourceArray.Length; i++)
 
 Array.Resize(ref targetArray, targetIndex);
 
-Console.WriteLine("Итоговый массив данных: [{0}]", string.Join(", ", targetArray));
+Console.WriteLine("Итоговый массив данных, где не более 3 символов в каждом элементе: [{0}]", string.Join(", ", targetArray));
